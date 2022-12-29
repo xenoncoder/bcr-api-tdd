@@ -1,0 +1,7 @@
+.env
+node_modules
+coverage
+junit.xml
+package-lock.json
+yarn.lock
+package.lock
