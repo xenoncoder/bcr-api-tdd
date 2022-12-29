@@ -1,6 +1,6 @@
 # BCR Backend API (Test Driven Development & Deployment Challenge)
 
-This project is an individual challenge to build unit and integration tests from a given [express backend api project](https://github.com/xenoncoder/bcr-api-tdd) and deploying this app using [railway.app](railway.app).  
+This project is an individual challenge to build unit and integration tests from a given [express backend api project](https://github.com/xenoncoder/bcr-api-tdd) and deploying this app using [https://railway.app](railway.app).  
 
 Unit and integration tests for this project is built using `jest` and `supertest`. Test coverage details can be seen [here](#test-coverage).  
 Styling for this javascript project is enforced using ESLint [Google Javascript style guide](https://github.com/google/eslint-config-google).
@@ -67,6 +67,6 @@ Default admin account data is available and can be changed in local on [`config/
 
 ### Test Coverage
 
-![coverage test details](docs/coverage-test.PNG)
+![coverage test details](docs/coverage-test.png)
 
-![coverage test console](docs/coverage-test-console.PNG)
+![coverage test console](docs/coverage-test-console.png)
