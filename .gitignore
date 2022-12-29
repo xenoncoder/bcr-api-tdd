@@ -5,3 +5,4 @@ junit.xml
 package-lock.json
 yarn.lock
 package.lock
+.idea
